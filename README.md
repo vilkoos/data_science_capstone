@@ -2,6 +2,10 @@
 
 files for the data science capstone project (December 2015)
 
+##The milestone report
+
+* 000_milestone.html (the first milestone report for the project)
+
 ## csv files
 
 You can click on the .csv files to view the content.
