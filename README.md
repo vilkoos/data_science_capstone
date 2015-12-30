@@ -14,6 +14,7 @@ You can click on the .csv files to view the content.
 * goodwords.csv (2362 word that will be predicted by my algorithm )
 * orderd_bigrams.csv (all the bi-grams that predict a good word)
 * twit_best_bigram.csv (the bi-grams that will actually be used to predict the next word)
+* twit_selected_words.csv (the 2500 most occurring words in the input file)
 
 ## Perl programs to produce the csv's
 * 01_to_lower.pl  (clean the data + writing test and train file)
